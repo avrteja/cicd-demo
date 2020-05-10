@@ -93,7 +93,7 @@
 	<distributionManagement>
    <repository>
       <id>local-repo</id>
-        <url>C:/repository</url>
+        <url>file://C:/repository</url>
    </repository>
 </distributionManagement>
 
