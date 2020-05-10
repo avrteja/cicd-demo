@@ -90,11 +90,5 @@
 			</snapshots>
 		</pluginRepository>
 	</pluginRepositories>
-	<distributionManagement>
-   <repository>
-      <id>local-repo</id>
-        <url>file://C:/repository</url>
-   </repository>
-</distributionManagement>
 
 </project>
